@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Картофель, 1 кг",
+      "price": 350,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23e8dcc0'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥔</text></svg>"
+    },
+    {
+      "id": 2,
+      "name": "Мёд натуральный, 1 л",
+      "price": 4500,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23fbe8a6'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🍯</text></svg>"
+    },
+    {
+      "id": 3,
+      "name": "Молоко фермерское, 1 л",
+      "price": 600,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23f0f0f0'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥛</text></svg>"
+    },
+    {
+      "id": 4,
+      "name": "Яйца куриные, 10 шт",
+      "price": 900,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23fff4d9'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥚</text></svg>"
+    },
+    {
+      "id": 5,
+      "name": "Морковь, 1 кг",
+      "price": 280,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23ffe3cc'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥕</text></svg>"
+    },
+    {
+      "id": 6,
+      "name": "Капуста белокочанная, 1 кг",
+      "price": 220,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23e3f2d8'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥬</text></svg>"
+    },
+    {
+      "id": 7,
+      "name": "Помидоры, 1 кг",
+      "price": 650,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23ffe0e0'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🍅</text></svg>"
+    },
+    {
+      "id": 8,
+      "name": "Огурцы, 1 кг",
+      "price": 500,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23e0f5e0'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🥒</text></svg>"
+    },
+    {
+      "id": 9,
+      "name": "Лук репчатый, 1 кг",
+      "price": 200,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23f5e8dc'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🧅</text></svg>"
+    },
+    {
+      "id": 10,
+      "name": "Свёкла, 1 кг",
+      "price": 260,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23f0dce0'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🫐</text></svg>"
+    },
+    {
+      "id": 11,
+      "name": "Перец болгарский, 1 кг",
+      "price": 780,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23ffe8d6'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🫑</text></svg>"
+    },
+    {
+      "id": 12,
+      "name": "Чеснок, 1 кг",
+      "price": 1200,
+      "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='200'><rect width='300' height='200' fill='%23f5f5ec'/><text x='50%25' y='50%25' font-size='60' text-anchor='middle' dominant-baseline='middle'>🧄</text></svg>"
+    }
+  ]
+}
